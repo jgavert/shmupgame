@@ -1,3 +1,9 @@
+*.csproj
+*.sln
+*.db
+*.vcxproj
+*.filters
+
 # Prerequisites
 *.d
 
