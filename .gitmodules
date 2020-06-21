@@ -1,0 +1,6 @@
+[submodule "ext/higanbana"]
+	path = ext/higanbana
+	url = https://github.com/jgavert/Higanbana.git
+[submodule "ext/Sharpmake"]
+	path = ext/Sharpmake
+	url = https://github.com/ubisoftinc/Sharpmake.git
