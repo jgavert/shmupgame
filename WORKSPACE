@@ -1,5 +1,10 @@
-workspace(name = "higanbana")
+workspace(name = "shmupgame")
 load("@bazel_tools//tools/build_defs/repo:git.bzl", "new_git_repository")
+
+local_repository(
+    name = "higanbana",
+    path = "ext/higanbana",
+)
 
 new_git_repository(
     name = "googletest",

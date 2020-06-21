@@ -1,7 +1,7 @@
 @echo off
 
 :: set batch file directory as current
-pushd "%~dp0\..\external\Sharpmake\"
+pushd "%~dp0\..\ext\Sharpmake\"
 
 set SHARPMAKE_EXECUTABLE=bin\debug\Sharpmake.Application.exe
 

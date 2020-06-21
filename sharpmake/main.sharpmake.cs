@@ -1,7 +1,7 @@
 using Sharpmake;
 
 [module: Sharpmake.Include("common_project.sharpmake.cs")]
-[module: Sharpmake.Include("../external/externals.sharpmake.cs")]
+[module: Sharpmake.Include("../ext/externals.sharpmake.cs")]
 
 namespace ShmupGame
 {
