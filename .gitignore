@@ -3,6 +3,9 @@
 *.db
 *.vcxproj
 *.filters
+*.user
+
+bazel-*
 
 # Prerequisites
 *.d
